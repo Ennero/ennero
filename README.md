@@ -1,4 +1,4 @@
-## 📈 Mi GitHub en un vistazo
+## 📈 Mi GitHub resumido
 
 | 📊 Lenguajes más usados | 🔎 Otras estadísticas |
 |-----------------------|------------------------|
