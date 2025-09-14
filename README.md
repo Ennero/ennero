@@ -1,8 +1,16 @@
 ## 📈 Mi GitHub resumido
 
 | 📊 Lenguajes más usados | 🔎 Otras estadísticas |
-|-----------------------|------------------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" width="672"/> | ![Estadísticas](https://github-readme-stats.vercel.app/api?username=ennero&show_icons=true)  <br> ![GitHub Streak](https://streak-stats.demolab.com/?user=ennero) |
+|-------------------------|------------------------|
+| <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="672" />
+  </picture> | <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ennero&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ennero&show_icons=true&theme=default" />
+  </picture> <br> ![GitHub Streak](https://streak-stats.demolab.com/?user=ennero) |
+
+
 
 <div align="center">
   <picture>
