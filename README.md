@@ -34,19 +34,12 @@
 
 <div align="center">
 
-| 📊 Lenguajes más usados | 🔎 Estadísticas de GitHub |
+| 📊 Lenguajes & Repositorios | 🔎 Estadísticas & Rendimiento |
 |:---:|:---:|
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=false" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=default&hide_border=false" width="100%" /></picture> |
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=default&hide_border=true&background=00000000&ring=0284C7&fire=0284C7&currStreakLabel=0284C7" />
-  <img src="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=true" width="75%" alt="Racha de contribuciones" />
-</picture>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-dark.svg" />
@@ -63,21 +56,29 @@
 <div align="center">
 
 ### Lenguajes
-<img src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,java,rust,dart,php,html,css" alt="Lenguajes" />
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,java,rust,dart,php,bash,html,css" alt="Lenguajes de programación" />
 
 <br>
 
 ### Frameworks & Mobile
-<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,nodejs,express,fastapi,django,tailwind,vite" alt="Frameworks y Mobile" />
+<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,nodejs,express,fastapi,django,tailwind,bootstrap,vite" alt="Frameworks y Mobile" />
 
 <br>
 
 ### Bases de Datos
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,mongodb,redis" alt="Bases de datos" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="Bases de datos" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
 
-<br>
-
-### DevOps, Cloud & Hardware
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,postman,vscode" alt="Herramientas y DevOps" />
+### DevOps, Cloud, Testing & Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,jest,postman,vscode" alt="Herramientas y DevOps" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
+  <img src="https://img.shields.io/badge/Graphviz-222222?style=for-the-badge&logo=graphviz&logoColor=white" alt="Graphviz" />
+</p>
 
 </div>
