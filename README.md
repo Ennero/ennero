@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Guatemala-007ACC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación" />
+  <img src="https://komarev.com/ghpvc/?username=ennero&style=for-the-badge&color=0284C7&label=Visitas" alt="Visitas" />
 </p>
 
 </div>
@@ -33,9 +34,9 @@
 
 <div align="center">
 
-| 📊 Lenguajes & Proyecto Destacado | 🔎 Actividad & Rendimiento |
+| 📊 Lenguajes & Dev Quote | 🔎 Actividad & Rendimiento |
 |:---:|:---:|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture><br><br><a href="https://github.com/Ennero/challengestart_EnnerMendizabal"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ennero&repo=challengestart_EnnerMendizabal&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ennero&repo=challengestart_EnnerMendizabal&theme=default" width="100%" /></picture></a> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=default" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=dark" width="100%" /></picture> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture><br><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=default" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=dark" width="100%" /></picture> |
 
 <br>
 
