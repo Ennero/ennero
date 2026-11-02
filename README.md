@@ -76,6 +76,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,jest,postman,vscode" alt="Herramientas y DevOps" />
   <br><br>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
   <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking" />
   <img src="https://img.shields.io/badge/Graphviz-222222?style=for-the-badge&logo=graphviz&logoColor=white" alt="Graphviz" />
