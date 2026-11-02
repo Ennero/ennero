@@ -34,11 +34,19 @@
 
 <div align="center">
 
-| 📊 Lenguajes & Dev Quote | 🔎 Actividad & Rendimiento |
+| 📊 Lenguajes más usados | 🔎 Estadísticas de GitHub |
 |:---:|:---:|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture><br><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=default" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=dark" width="100%" /></picture> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture> |
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=default&hide_border=true&background=00000000&ring=0284C7&fire=0284C7&currStreakLabel=0284C7" />
+  <img src="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=true" width="75%" alt="Racha de contribuciones" />
+</picture>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-dark.svg" />
@@ -55,12 +63,12 @@
 <div align="center">
 
 ### Lenguajes
-<img src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,java,php,html,css" alt="Lenguajes" />
+<img src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,java,rust,dart,php,html,css" alt="Lenguajes" />
 
 <br>
 
-### Frameworks & Librerías
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,tailwind,vite,vue" alt="Frameworks" />
+### Frameworks & Mobile
+<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,nodejs,express,fastapi,django,tailwind,vite" alt="Frameworks y Mobile" />
 
 <br>
 
@@ -69,7 +77,7 @@
 
 <br>
 
-### DevOps, Herramientas & Entornos
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman" alt="Herramientas" />
+### DevOps, Cloud & Hardware
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,postman,vscode" alt="Herramientas y DevOps" />
 
 </div>
