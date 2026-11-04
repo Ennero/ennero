@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hola!+Soy+Enner+Mendizabal+%F0%9F%91%8B;Ingenier%C3%ADa+en+Ciencias+y+Sistemas+%40+USAC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enner+Mendizabal+%F0%9F%91%8B;Ingenier%C3%ADa+en+Ciencias+y+Sistemas+%40+USAC)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enner-mendizabal">
