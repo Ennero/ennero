@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hola!+Soy+Enner+Mendizabal+%F0%9F%91%8B;Backend+%7C+Compiladores+%7C+Sistemas+Distribuidos;Ingenier%C3%ADa+en+Ciencias+y+Sistemas+%40+USAC;Convierto+ideas+complejas+en+software+robusto+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enner+Mendizabal+%F0%9F%91%8B;Ingenier%C3%ADa+en+Ciencias+y+Sistemas+%40+USAC)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enner-mendizabal">
@@ -21,12 +21,24 @@
 
 | Proyecto | Área | Tecnologías | Descripción |
 | :--- | :---: | :---: | :--- |
-| **[challengestart_EnnerMendizabal](https://github.com/Ennero/challengestart_EnnerMendizabal)** | Backend & APIs | `Go` `Fiber` `React` | API de simulación de Mocks REST de alto rendimiento con enrutamiento dinámico y dashboard reactivo. Realizado para un concurso de TIGO. |
-| **[SO2_202302220](https://github.com/Ennero/SO2_202302220)** | Sistemas Operativos | `C` `Kernel LKM` `React` | Sistema EDR de seguridad: Módulo de Kernel Linux (Ring 0), syscalls personalizadas y Daemon multihilo en C (Ring 3). |
+| **[challengestart_EnnerMendizabal](https://github.com/Ennero/challengestart_EnnerMendizabal)** | Backend & APIs | `Go` `Fiber` `Vue.js` | API de simulación de Mocks REST de alto rendimiento con enrutamiento dinámico y dashboard reactivo. Realizado para un concurso de TIGO. |
+| **[SO2_202302220](https://github.com/Ennero/SO2_202302220)** | Sistemas Operativos | `C` `Kernel LKM` `Preact` | Sistema EDR de seguridad: Módulo de Kernel Linux (Ring 0), syscalls personalizadas y Daemon multihilo en C (Ring 3). |
 | **[OLC2_Proyecto2_202302220](https://github.com/Ennero/OLC2_Proyecto2_202302220)** | Compiladores | `C` `Bison` `Flex` `ARM64` | Compilador e IDE completo que traduce subconjunto de Java a ensamblador nativo ARM64 (AArch64) con emulación QEMU. |
 | **[AYD2_B_1S2026_PROYECTO_G2](https://github.com/Ennero/AYD2_B_1S2026_PROYECTO_G2)** | Ing. de Software & QA | `TypeScript` `React` `Docker` | LogiTrans: Plataforma logística fullstack con arquitectura de microservicios, pruebas automatizadas (E2E) y pipelines CI/CD. |
 | **[MIA_1S2025_P1_202302220](https://github.com/Ennero/MIA_1S2025_P1_202302220)** | Sistemas de Archivos | `Go` `Vue.js` `Graphviz` | Simulador de particionamiento de discos virtuales y sistema de archivos tipo EXT2 (MBR, EBR, inodos, bitmaps, superbloque). |
 | **[bases2_proyecto1](https://github.com/Ennero/bases2_proyecto1)** | Bases de Datos & ETL | `Python` `SQL Server` `Docker` | Pipeline ETL automatizado de Copas del Mundo (1930-2026) con Web Scraping, normalización y SQL Server contenerizado en Docker. |
+
+---
+
+## 🤝 Colaboraciones
+
+Proyectos públicos de otros propietarios en los que he participado. Cada enlace permite revisar el trabajo del equipo y el historial de mis aportaciones.
+
+| Proyecto | Mi participación | Evidencia |
+| :--- | :--- | :--- |
+| **[Agente analítico de ventas](https://github.com/DavidVelasquez77/AgentePractica1_G1)** | Desarrollo del pipeline ETL, herramientas de análisis mediante MCP, chat web y documentación de resultados con Python, Supabase y Google ADK. | [Mis commits](https://github.com/DavidVelasquez77/AgentePractica1_G1/commits?author=Ennero) |
+| **[QuetzalMart](https://github.com/DavidVelasquez77/GEREN2_PROYECTO_G1)** | Manuales de instalación y operación, documentación de procesos e integración de capturas y evidencias del proyecto con Odoo, UiPath y GA4. | [Mis commits](https://github.com/DavidVelasquez77/GEREN2_PROYECTO_G1/commits?author=Ennero) |
+| **[El Triunfo](https://github.com/DavidVelasquez77/MODELA1_PRACTICA2_G1)** | Construcción y actualización del modelo de simulación de una distribuidora de repuestos en Simio y su documentación técnica. | [Mis commits](https://github.com/DavidVelasquez77/MODELA1_PRACTICA2_G1/commits?author=Ennero) |
 
 ---
 
