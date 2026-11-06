@@ -92,19 +92,19 @@ Proyectos públicos de otros propietarios en los que he participado. Cada enlace
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <br><br>
   <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Agent Development Kit" />
-  <img src="https://img.shields.io/badge/MCP-232F3E?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-232F3E?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)" />
 </p>
 
 ### Gestión Empresarial & Simulación
 <p align="center">
   <img src="assets/badges/odoo.svg" alt="Odoo Community 18" />
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
-  <img src="https://img.shields.io/badge/Simio-2563EB?style=for-the-badge" alt="Simio" />
+  <img src="https://img.shields.io/badge/Simio-Simulaci%C3%B3n-2563EB?style=for-the-badge" alt="Simio" />
 </p>
 
 ### DevOps, Cloud, Testing & Hardware
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,postman,vscode,gcp,rabbitmq" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, Arduino, Postman, VS Code, Google Cloud y RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,postman,vscode,gcp,aws" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, Arduino, Postman, VS Code, Google Cloud y AWS" />
   <br><br>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
