@@ -58,7 +58,7 @@ Proyectos públicos de otros propietarios en los que he participado. Cada enlace
 | Proyecto | Mi participación | Evidencia |
 | :--- | :--- | :--- |
 | **[Agente analítico de ventas](https://github.com/DavidVelasquez77/AgentePractica1_G1)** | Desarrollo del pipeline ETL, herramientas de análisis mediante MCP, chat web y documentación de resultados con Python, Supabase y Google ADK. | [Mis commits](https://github.com/DavidVelasquez77/AgentePractica1_G1/commits?author=Ennero) |
-| **[QuetzalMart](https://github.com/DavidVelasquez77/GEREN2_PROYECTO_G1)** | Manuales de instalación y operación, documentación de procesos e integración de capturas y evidencias del proyecto con Odoo, UiPath y GA4. | [Mis commits](https://github.com/DavidVelasquez77/GEREN2_PROYECTO_G1/commits?author=Ennero) |
+| **[QuetzalMart](https://github.com/DavidVelasquez77/GEREN2_PROYECTO_G1)** | Manuales de instalación y operación, documentación de procesos e integración de capturas y evidencias del proyecto con Odoo y UiPath. | [Mis commits](https://github.com/DavidVelasquez77/GEREN2_PROYECTO_G1/commits?author=Ennero) |
 | **[El Triunfo](https://github.com/DavidVelasquez77/MODELA1_PRACTICA2_G1)** | Construcción y actualización del modelo de simulación de una distribuidora de repuestos en Simio y su documentación técnica. | [Mis commits](https://github.com/DavidVelasquez77/MODELA1_PRACTICA2_G1/commits?author=Ennero) |
 
 ---
@@ -97,11 +97,10 @@ Proyectos públicos de otros propietarios en los que he participado. Cada enlace
   <img src="https://img.shields.io/badge/MCP-232F3E?style=for-the-badge" alt="Model Context Protocol" />
 </p>
 
-### Gestión Empresarial, Analítica & Simulación
+### Gestión Empresarial & Simulación
 <p align="center">
   <img src="assets/badges/odoo.svg" alt="Odoo Community 18" />
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
-  <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
   <img src="https://img.shields.io/badge/Simio-2563EB?style=for-the-badge" alt="Simio" />
 </p>
 
