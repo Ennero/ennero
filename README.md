@@ -17,22 +17,40 @@
 
 ---
 
-## ⚡ Métricas y Actividad de Desarrollo
-
 <div align="center">
-
-| 📊 Lenguajes & Repositorios | 🔎 Estadísticas & Rendimiento |
-|:---:|:---:|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture> |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=false" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=default&hide_border=false" width="100%" /></picture> |
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-light.svg" />
   <img alt="github-contribution snake animation" src="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-light.svg" width="100%" />
 </picture>
+
+</div>
+
+## ⚡ Métricas y Actividad de Desarrollo
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">📊 Lenguajes &amp; Repositorios</th>
+      <th align="center">🔎 Estadísticas &amp; Rendimiento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture></td>
+      <td width="50%" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td width="50%" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=default" width="100%" /></picture></td>
+      <td width="50%" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=false" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=default&hide_border=false" width="100%" /></picture></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -92,14 +110,14 @@ Proyectos públicos de otros propietarios en los que he participado. Cada enlace
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <br><br>
   <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Agent Development Kit" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-232F3E?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)" />
+  <img src="assets/badges/mcp.svg" alt="Model Context Protocol (MCP)" />
 </p>
 
 ### Gestión Empresarial & Simulación
 <p align="center">
   <img src="assets/badges/odoo.svg" alt="Odoo Community 18" />
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
-  <img src="https://img.shields.io/badge/Simio-Simulaci%C3%B3n-2563EB?style=for-the-badge" alt="Simio" />
+  <img src="assets/badges/simio.svg" alt="Simio" />
 </p>
 
 ### DevOps, Cloud, Testing & Hardware
