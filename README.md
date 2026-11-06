@@ -17,6 +17,27 @@
 
 ---
 
+## ⚡ Métricas y Actividad de Desarrollo
+
+<div align="center">
+
+| 📊 Lenguajes & Repositorios | 🔎 Estadísticas & Rendimiento |
+|:---:|:---:|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=false" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=default&hide_border=false" width="100%" /></picture> |
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-light.svg" />
+  <img alt="github-contribution snake animation" src="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-light.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 🚀 Proyectos Destacados
 
 | Proyecto | Área | Tecnologías | Descripción |
@@ -42,27 +63,6 @@ Proyectos públicos de otros propietarios en los que he participado. Cada enlace
 
 ---
 
-## ⚡ Métricas y Actividad de Desarrollo
-
-<div align="center">
-
-| 📊 Lenguajes & Repositorios | 🔎 Estadísticas & Rendimiento |
-|:---:|:---:|
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ennero&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=dark" /><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ennero&show_icons=true&theme=default" width="100%" /></picture> |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ennero&theme=default" width="100%" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ennero&theme=dark&hide_border=false" /><img src="https://streak-stats.demolab.com/?user=ennero&theme=default&hide_border=false" width="100%" /></picture> |
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-light.svg" />
-  <img alt="github-contribution snake animation" src="https://raw.githubusercontent.com/ennero/ennero/output/github-snake-light.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
@@ -73,20 +73,41 @@ Proyectos públicos de otros propietarios en los que he participado. Cada enlace
 <br>
 
 ### Frameworks & Mobile
-<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,nodejs,express,fastapi,django,tailwind,bootstrap,vite" alt="Frameworks y Mobile" />
+<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,nodejs,express,nextjs,nestjs,fastapi,django,tailwind,bootstrap,vite" alt="React, Vue, Angular, Flutter, Node.js, Express, Next.js, NestJS, FastAPI, Django, Tailwind CSS, Bootstrap y Vite" />
 
 <br>
 
 ### Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="Bases de datos" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,supabase" alt="PostgreSQL, MySQL, SQLite, MongoDB, Redis y Supabase" />
   <br><br>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
+### Datos, IA & Agentes
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Agent Development Kit" />
+  <img src="https://img.shields.io/badge/MCP-232F3E?style=for-the-badge" alt="Model Context Protocol" />
+</p>
+
+### Gestión Empresarial, Analítica & Simulación
+<p align="center">
+  <img src="assets/badges/odoo.svg" alt="Odoo Community 18" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
+  <img src="https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+  <img src="https://img.shields.io/badge/Simio-2563EB?style=for-the-badge" alt="Simio" />
+</p>
+
 ### DevOps, Cloud, Testing & Hardware
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,jest,postman,vscode" alt="Herramientas y DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,linux,arduino,postman,vscode,gcp,rabbitmq" alt="Docker, Kubernetes, Git, GitHub Actions, Linux, Arduino, Postman, VS Code, Google Cloud y RabbitMQ" />
   <br><br>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
